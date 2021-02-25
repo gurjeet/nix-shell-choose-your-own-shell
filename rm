@@ -1,1 +1,1 @@
-$RMPATH/rm "$@"
+"$RMPATH/rm" "$@"
